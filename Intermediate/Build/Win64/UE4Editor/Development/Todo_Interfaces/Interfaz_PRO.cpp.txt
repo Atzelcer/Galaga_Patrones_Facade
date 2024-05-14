@@ -1,0 +1,9 @@
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Definitions.Todo_Interfaces.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Source\Todo_Interfaces\Interfaz_PRO.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Inc\Todo_Interfaces\Interfaz_PRO.generated.h

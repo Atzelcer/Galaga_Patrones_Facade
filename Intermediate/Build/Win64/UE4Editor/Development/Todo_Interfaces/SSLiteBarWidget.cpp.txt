@@ -1,0 +1,5 @@
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Definitions.Todo_Interfaces.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Source\Todo_Interfaces\SSLiteBarWidget.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SProgressBar.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\SProgressBar.generated.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateOptMacros.h

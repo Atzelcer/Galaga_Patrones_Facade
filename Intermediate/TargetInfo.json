@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Todo_Interfaces",
+			"Path": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Unreal Projects\\Todo_Interfaces\\Source\\Todo_Interfaces.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Todo_InterfacesEditor",
+			"Path": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Unreal Projects\\Todo_Interfaces\\Source\\Todo_InterfacesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

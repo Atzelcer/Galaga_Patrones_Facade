@@ -1,0 +1,10 @@
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Definitions.Todo_Interfaces.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Source\Todo_Interfaces\MenuPlayerController.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Inc\Todo_Interfaces\MenuPlayerController.generated.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Source\Todo_Interfaces\MenuHUD.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Inc\Todo_Interfaces\MenuHUD.generated.h

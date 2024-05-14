@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\JUEGOS_UNREAL_ENGINE\\Todo_Interfaces\\Source\\Todo_Interfaces\\Todo_Interfaces.Build.cs",
+		"D:\\JUEGOS_UNREAL_ENGINE\\Todo_Interfaces\\Source\\Todo_Interfaces.Target.cs",
+		"D:\\JUEGOS_UNREAL_ENGINE\\Todo_Interfaces\\Source\\Todo_InterfacesEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

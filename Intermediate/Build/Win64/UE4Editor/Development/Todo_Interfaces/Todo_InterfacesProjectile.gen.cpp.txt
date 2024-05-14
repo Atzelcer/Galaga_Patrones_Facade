@@ -1,0 +1,5 @@
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Definitions.Todo_Interfaces.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Source\Todo_Interfaces/Todo_InterfacesProjectile.h
+C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Inc\Todo_Interfaces\Todo_InterfacesProjectile.generated.h

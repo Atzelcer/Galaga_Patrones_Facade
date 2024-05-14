@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Todo_Interfaces-2855.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\Todo_InterfacesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Interfaz_PRO.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\MenuHUD.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\MenuPlayerController.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\SMainMenuWidget.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Todo_Interfaces.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Todo_InterfacesGameMode.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Todo_InterfacesPawn.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Todo_InterfacesProjectile.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Interfaz_PRO.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\MenuHUD.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\MenuPlayerController.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Todo_Interfaces.init.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Todo_InterfacesGameMode.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Todo_InterfacesPawn.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Todo_InterfacesProjectile.gen.cpp.obj"
+"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\Default.rc2.res"
+/OUT:"C:\Users\ASUS\OneDrive\Documentos\Unreal Projects\Todo_Interfaces\Intermediate\Build\Win64\UE4Editor\Development\Todo_Interfaces\UE4Editor-Todo_Interfaces-2855.lib"
